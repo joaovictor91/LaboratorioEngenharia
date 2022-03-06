@@ -5,11 +5,13 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMvc();
 builder.Services.AddControllersWithViews();
-//Configurando conexão com BD
+
+    //Configurando conexão com o BD
 var connectionString = builder.Configuration.GetConnectionString("conexao");
+
 builder.Services.AddDbContext<Contexto>(options => options.UseSqlServer(connectionString));
 
-// Add services to the container.
+    // Add services to the container.
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
@@ -32,8 +34,9 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.MapControllerRoute(
-   name: "default",
-   pattern: "{controller=Home}/{action=Index}/{id?}"
-   );
+    name: "default",
+    pattern:
+        "{controller=Home}/{action=Index}/{id?}"
+        );
 
 app.Run();

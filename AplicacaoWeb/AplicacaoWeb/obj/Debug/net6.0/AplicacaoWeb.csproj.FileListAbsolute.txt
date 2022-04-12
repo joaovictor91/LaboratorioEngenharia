@@ -552,3 +552,14 @@ C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Labora
 C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Laboratório de Engenharia de Software\Aula 05-03-2022\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.pdb
 C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Laboratório de Engenharia de Software\Aula 05-03-2022\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.genruntimeconfig.cache
 C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Laboratório de Engenharia de Software\Aula 05-03-2022\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\ref\AplicacaoWeb.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.csproj.AssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.AssemblyInfoInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.AssemblyInfo.cs
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.RazorAssemblyInfo.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.RazorAssemblyInfo.cs
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\refint\AplicacaoWeb.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\obj\Debug\net6.0\AplicacaoWeb.pdb

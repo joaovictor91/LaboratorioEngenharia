@@ -9461,11 +9461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Laboratório de Engenharia de Software\\Aula 05-03-2022\\AplicacaoWeb\\AplicacaoWeb\\AplicacaoWeb.csproj",
+      "projectUniqueName": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Eletiva - Programação WEB II\\Github\\Laboratorio\\AplicacaoWeb\\AplicacaoWeb\\AplicacaoWeb.csproj",
       "projectName": "AplicacaoWeb",
-      "projectPath": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Laboratório de Engenharia de Software\\Aula 05-03-2022\\AplicacaoWeb\\AplicacaoWeb\\AplicacaoWeb.csproj",
+      "projectPath": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Eletiva - Programação WEB II\\Github\\Laboratorio\\AplicacaoWeb\\AplicacaoWeb\\AplicacaoWeb.csproj",
       "packagesPath": "C:\\Users\\j-vic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Laboratório de Engenharia de Software\\Aula 05-03-2022\\AplicacaoWeb\\AplicacaoWeb\\obj\\",
+      "outputPath": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Eletiva - Programação WEB II\\Github\\Laboratorio\\AplicacaoWeb\\AplicacaoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AplicacaoWeb
 build_property.RootNamespace = AplicacaoWeb
-build_property.ProjectDir = C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Laboratório de Engenharia de Software\Aula 05-03-2022\AplicacaoWeb\AplicacaoWeb\
+build_property.ProjectDir = C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Laboratório de Engenharia de Software\Aula 05-03-2022\AplicacaoWeb\AplicacaoWeb
+build_property.MSBuildProjectDirectory = C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\5º Modulo\Eletiva - Programação WEB II\Github\Laboratorio\AplicacaoWeb\AplicacaoWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/Error.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/Index.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/Privacy.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/_ViewImports.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/_ViewStart.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Create.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Delete.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Details.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Edit.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Index.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/_ViewImports.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/_ViewStart.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Pages/Shared/_Layout.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ra448lpznf
 
-[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Laboratório de Engenharia de Software/Aula 05-03-2022/AplicacaoWeb/AplicacaoWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/j-vic/Desktop/Curso desenvolvimento de Sistemas/FATEC/5º Modulo/Eletiva - Programação WEB II/Github/Laboratorio/AplicacaoWeb/AplicacaoWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-chkucsnhnh

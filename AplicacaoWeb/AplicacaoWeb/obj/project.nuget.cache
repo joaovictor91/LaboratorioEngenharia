@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2yzr6/v5S47TklljDI+zBK/Pr+Q/lfub2trf3/Hc4GgDfCa1jOR8kmczBxvSfJxxPk5tjq8dl+w3/lQLom5bA==",
+  "dgSpecHash": "xOf9c//b0UdOaK6SWp5DzpOWWToGBtszJKNWvS+qVq7P7PSstZXkwaGJOTSkiud1KOjDk+ZPyCKWcZ8lOItWEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Laboratório de Engenharia de Software\\Aula 05-03-2022\\AplicacaoWeb\\AplicacaoWeb\\AplicacaoWeb.csproj",
+  "projectFilePath": "C:\\Users\\j-vic\\Desktop\\Curso desenvolvimento de Sistemas\\FATEC\\5º Modulo\\Eletiva - Programação WEB II\\Github\\Laboratorio\\AplicacaoWeb\\AplicacaoWeb\\AplicacaoWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j-vic\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\j-vic\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

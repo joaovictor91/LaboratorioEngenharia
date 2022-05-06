@@ -1,0 +1,18 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Exercicio_3.MainPage"
+             BackgroundColor="{DynamicResource SecondaryColor}">
+
+	<StackLayout>
+		<TableView>
+			<TableSection Title="Dados do Formulário">
+				<EntryCell
+                    x:Name="Valor"
+                    Label="Informe um  numero: "
+                    LabelColor="Black">
+				</EntryCell>
+			</TableSection>
+		</TableView>
+		<Button Text="Verificar" Clicked="Button_Clicked"/>
+	</StackLayout>
+</ContentPage>

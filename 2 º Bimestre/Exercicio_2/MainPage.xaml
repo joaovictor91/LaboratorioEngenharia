@@ -1,0 +1,24 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Exercicio_2.MainPage"
+             BackgroundColor="{DynamicResource SecondaryColor}">
+
+	<StackLayout>
+		<TableView>
+			<TableSection Title="Dados do Formulário">
+				<EntryCell
+                    x:Name="ValorQuilo"
+                    Label="Informe o valor do quilo: "
+                    LabelColor="Black">
+
+				</EntryCell>
+				<EntryCell
+                    x:Name="QtdeProduto"
+                    Label="Informe a quantidade de quilos do produto: "
+                    LabelColor="Black">
+				</EntryCell>
+			</TableSection>
+		</TableView>
+		<Button Text="Enviar" Clicked="Button_Clicked"/>
+	</StackLayout>
+</ContentPage>

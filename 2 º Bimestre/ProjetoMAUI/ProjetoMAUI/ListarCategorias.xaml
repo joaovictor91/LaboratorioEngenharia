@@ -5,8 +5,18 @@
              Title="ListarCategorias"
              BackgroundColor="White">
     <StackLayout>
-        <Label Text="Welcome to .NET MAUI!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <ListView x:Name="Dados" ItemTapped="Dados_ItemTapped" ItemsSource="{Binding Categorias}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout>
+                                <Label Text="{Binding Descricao}"></Label>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 </ContentPage>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoMAUI.AlterarExcluirUsuario"
+             Title="AlterarExcluirUsuario"
+             BackgroundColor="White">
+    <StackLayout Padding="25">
+        <TableView Intent="Form" HasUnevenRows="True">
+            <TableRoot>
+                <TableSection>
+                    <EntryCell Label="Alterar:" x:Name="Nome"></EntryCell>
+                    <EntryCell Label="Alterar:" x:Name="Login"></EntryCell>
+                    <EntryCell Label="Alterar:" x:Name="Senha"></EntryCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+
+        <Button Text="Alterar Registro" Clicked="Button_Clicked"></Button>
+
+        <Button Text="Excluir Registro" Clicked="Button_Clicked_1"></Button>
+
+    </StackLayout>
+</ContentPage>

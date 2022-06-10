@@ -42726,11 +42726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Aula 06-05-2022\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Aula 01-06-2022\\Correto\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
       "projectName": "ProjetoMAUI",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\Aula 06-05-2022\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\Aula 01-06-2022\\Correto\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\Aula 06-05-2022\\ProjetoMAUI\\ProjetoMAUI\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\Aula 01-06-2022\\Correto\\ProjetoMAUI\\ProjetoMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

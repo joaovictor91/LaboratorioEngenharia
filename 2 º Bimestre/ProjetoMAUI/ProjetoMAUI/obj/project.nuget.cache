@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4dOsXAl+V2v01dTOCjhZ3X8EltwO5R3wzpaKxcQOiqWyQ8LBJV6P2wJSf5GGh+ll+Mqph9IX3fiRAELpO7SnCA==",
+  "dgSpecHash": "GjMpwEzX0d6jAVc9Bp3LRnQI+ejezWEHBYmRVosehRKNfecdB7Z8m7PSj6N45j916ku3aClasyCkrT24CFL1ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Desktop\\Aula 06-05-2022\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
+  "projectFilePath": "C:\\Users\\aluno\\Desktop\\Aula 01-06-2022\\Correto\\ProjetoMAUI\\ProjetoMAUI\\ProjetoMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aluno\\.nuget\\packages\\firebasedatabase.net\\4.0.7\\firebasedatabase.net.4.0.7.nupkg.sha512",
     "C:\\Users\\aluno\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",

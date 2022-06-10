@@ -1,1 +1,1 @@
-<Devices><Device id="4b4b00f79905"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:tissot;model:Mi_A1;device:tissot_sprout;transport_id:2</LongOutput></Device></Devices>
+<Devices><Device id="4b4b00f79905"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:tissot;model:Mi_A1;device:tissot_sprout;transport_id:1</LongOutput></Device></Devices>

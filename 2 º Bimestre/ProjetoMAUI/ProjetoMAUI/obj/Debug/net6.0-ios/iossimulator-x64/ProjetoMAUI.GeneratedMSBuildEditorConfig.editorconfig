@@ -7,33 +7,93 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoMAUI
-build_property.ProjectDir = C:\Users\aluno\Desktop\Aula 06-05-2022\ProjetoMAUI\ProjetoMAUI\
+build_property.ProjectDir = C:\Users\aluno\Desktop\Aula 01-06-2022\Correto\ProjetoMAUI\ProjetoMAUI\
 
-[C:/Users/aluno/Desktop/Aula 06-05-2022/ProjetoMAUI/ProjetoMAUI/App.xaml]
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/AlterarExcluir.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.AlterarExcluir.xaml
+build_metadata.AdditionalFiles.TargetPath = AlterarExcluir.xaml
+build_metadata.AdditionalFiles.RelativePath = AlterarExcluir.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/AlterarExcluirClassificacao.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.AlterarExcluirClassificacao.xaml
+build_metadata.AdditionalFiles.TargetPath = AlterarExcluirClassificacao.xaml
+build_metadata.AdditionalFiles.RelativePath = AlterarExcluirClassificacao.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/AlterarExcluirTipo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.AlterarExcluirTipo.xaml
+build_metadata.AdditionalFiles.TargetPath = AlterarExcluirTipo.xaml
+build_metadata.AdditionalFiles.RelativePath = AlterarExcluirTipo.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/AlterarExcluirUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.AlterarExcluirUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = AlterarExcluirUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = AlterarExcluirUsuario.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/aluno/Desktop/Aula 06-05-2022/ProjetoMAUI/ProjetoMAUI/ListarCategorias.xaml]
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/ListarCategorias.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.ListarCategorias.xaml
 build_metadata.AdditionalFiles.TargetPath = ListarCategorias.xaml
 build_metadata.AdditionalFiles.RelativePath = ListarCategorias.xaml
 
-[C:/Users/aluno/Desktop/Aula 06-05-2022/ProjetoMAUI/ProjetoMAUI/MainPage.xaml]
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/ListarClassificacao.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.ListarClassificacao.xaml
+build_metadata.AdditionalFiles.TargetPath = ListarClassificacao.xaml
+build_metadata.AdditionalFiles.RelativePath = ListarClassificacao.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/ListarTipo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.ListarTipo.xaml
+build_metadata.AdditionalFiles.TargetPath = ListarTipo.xaml
+build_metadata.AdditionalFiles.RelativePath = ListarTipo.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/ListarUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.ListarUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = ListarUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = ListarUsuario.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/aluno/Desktop/Aula 06-05-2022/ProjetoMAUI/ProjetoMAUI/NovaCategoria.xaml]
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/NovaCategoria.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.NovaCategoria.xaml
 build_metadata.AdditionalFiles.TargetPath = NovaCategoria.xaml
 build_metadata.AdditionalFiles.RelativePath = NovaCategoria.xaml
 
-[C:/Users/aluno/Desktop/Aula 06-05-2022/ProjetoMAUI/ProjetoMAUI/Principal.xaml]
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/NovaClassificacao.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.NovaClassificacao.xaml
+build_metadata.AdditionalFiles.TargetPath = NovaClassificacao.xaml
+build_metadata.AdditionalFiles.RelativePath = NovaClassificacao.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/NovoTipo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.NovoTipo.xaml
+build_metadata.AdditionalFiles.TargetPath = NovoTipo.xaml
+build_metadata.AdditionalFiles.RelativePath = NovoTipo.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/NovoUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.NovoUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = NovoUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = NovoUsuario.xaml
+
+[C:/Users/aluno/Desktop/Aula 01-06-2022/Correto/ProjetoMAUI/ProjetoMAUI/Principal.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoMAUI.Principal.xaml
 build_metadata.AdditionalFiles.TargetPath = Principal.xaml

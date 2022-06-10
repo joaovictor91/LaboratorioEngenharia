@@ -8,10 +8,40 @@
     <SelectedDevice>Xiaomi Mi A1</SelectedDevice>
   </PropertyGroup>
   <ItemGroup>
+    <MauiXaml Update="AlterarExcluir.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="AlterarExcluirClassificacao.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="AlterarExcluirTipo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="AlterarExcluirUsuario.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="ListarCategorias.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="ListarClassificacao.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="ListarTipo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="ListarUsuario.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="NovaCategoria.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="NovaClassificacao.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="NovoTipo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="NovoUsuario.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Principal.xaml">
